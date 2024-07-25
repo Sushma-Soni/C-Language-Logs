@@ -1,0 +1,4 @@
+
+Enter the first no.:-7
+Enter second no:- 9
+result:16
